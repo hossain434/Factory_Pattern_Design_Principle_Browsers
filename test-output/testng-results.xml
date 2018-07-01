@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73684" started-at="2018-07-01T07:33:01Z" finished-at="2018-07-01T07:34:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73684" started-at="2018-07-01T07:33:01Z" finished-at="2018-07-01T07:34:15Z">
+      <class name="FactoryPatternTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:FactoryPatternTest@2d45ba]" name="beforeTest" is-config="true" duration-ms="15" started-at="2018-07-01T00:33:01Z" finished-at="2018-07-01T00:33:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:FactoryPatternTest@2d45ba]" name="beforeMethod" is-config="true" duration-ms="5500" started-at="2018-07-01T00:33:01Z" finished-at="2018-07-01T00:33:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="launchGoogleTest()[pri:0, instance:FactoryPatternTest@2d45ba]" name="launchGoogleTest" duration-ms="2354" started-at="2018-07-01T00:33:07Z" finished-at="2018-07-01T00:33:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchGoogleTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:FactoryPatternTest@2d45ba]" name="afterMethod" is-config="true" duration-ms="1132" started-at="2018-07-01T00:33:09Z" finished-at="2018-07-01T00:33:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:FactoryPatternTest@2d45ba]" name="beforeMethod" is-config="true" duration-ms="5086" started-at="2018-07-01T00:33:10Z" finished-at="2018-07-01T00:33:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="launchTestAutomationGuruTest()[pri:0, instance:FactoryPatternTest@2d45ba]" name="launchTestAutomationGuruTest" duration-ms="5968" started-at="2018-07-01T00:33:15Z" finished-at="2018-07-01T00:33:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchTestAutomationGuruTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:FactoryPatternTest@2d45ba]" name="afterMethod" is-config="true" duration-ms="1164" started-at="2018-07-01T00:33:21Z" finished-at="2018-07-01T00:33:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:FactoryPatternTest@2d45ba]" name="beforeMethod" is-config="true" duration-ms="4575" started-at="2018-07-01T00:33:22Z" finished-at="2018-07-01T00:33:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="launchYahooTest()[pri:0, instance:FactoryPatternTest@2d45ba]" name="launchYahooTest" duration-ms="45713" started-at="2018-07-01T00:33:27Z" finished-at="2018-07-01T00:34:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchYahooTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:FactoryPatternTest@2d45ba]" name="afterMethod" is-config="true" duration-ms="2161" started-at="2018-07-01T00:34:13Z" finished-at="2018-07-01T00:34:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- FactoryPatternTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
