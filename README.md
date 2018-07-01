@@ -1,4 +1,7 @@
 # Factory_Pattern_Design_Principle_Browsers
+http://toolsqa.com/selenium-webdriver/factory-design-principle-in-frameworks/
+http://www.testautomationguru.com/selenium-webdriver-design-patterns-in-test-automation-factory-pattern/
+
 Factory design pattern is one of the most useful patterns. You can see the usage of this pattern everywhere. One such usage of Factory Design Principle in Frameworks is in the Log4j API. As we all know Log4j is a brilliant logging API.
 Here you will notice that we are not directly creating a  Logger object by using the new keyword. We are calling another class called LogManager and on that class we have a static method called getLogger(). This getLogger method is responsible for returning us a Logger object instance. LogManager is based on the Factory pattern design principle, it is basically a factory that stores and provides different Logger objects for usage.
 
